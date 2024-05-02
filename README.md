@@ -1,5 +1,5 @@
 ### Olá Mundo! 👋 me chamo Matheus
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHAF&hide=issues,contribs&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHAF&layout=compact)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHAF&hide=issues,contribs&show_icons=true&theme=dark)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHAF&layout=compact&theme=dark)
 
 ___
 Minhas redes socias <br>
